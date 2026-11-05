@@ -1,0 +1,56 @@
+body{margin: 0;
+font-family: 'Times New Roman', Times, serif;
+background-color: bisque;
+color: brown;}
+
+header{background-color:rgb(102, 10, 10);
+color: burlywood;
+padding: 24px;
+text-align: center;
+}
+main {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 24px;
+}
+section{
+background-color:brown;
+border-radius: 8px;
+padding: 16px;
+margin-bottom: 16px;
+}
+span{
+    font-weight: bold;
+    color:burlywood;
+}
+footer{text-align: center; padding: 24px;}
+
+.card{
+    background-color: rgb(77, 6, 6);
+    border: 2px solid transparent;
+    border-radius: 8px;
+    padding:16px;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+
+.card h2{margin: 0 0 8px;}
+
+.valor{font-weight: bold; color:burlywood}
+
+.destaque{background-color:brown}
+.card.destaqueh2{color:rgb(77, 6, 6) ;}
+
+#topo{ background-color: brown; color:burlywood}
+#contato{ background-color: black;}
+.selecionado{border-color: rgb(122, 43, 43);}
+#limpar{
+    padding: 8px 14px;
+    border: 1px solid rgb(63, 0, 0);
+    background-color: bisque;
+    color:rgb(77, 6, 6);
+    border-radius: 6px;
+    cursor: pointer;
+}
+#resumo{color: rgb(167, 63, 63)}
+.aviso{color:bisque}
